@@ -1,4 +1,4 @@
-# Blockchain 101 - beginner’s guide on cryptocurrency and blockchain
+# Blockchain 101 - beginner’s guide to cryptocurrency and blockchain
 
 Cryptocurrency has been around for 9 years since the first release of Bitcoin software on January 3, 2009. While most people refer to the underlying technology as “blockchain”, and Bitcoin as the first application built on top of blockchain, it’s actually quite the opposite. Most videos and tutorials on the web will throw a lot of buzz words at your and tell you how blockchain can disrupt the trust mechanism before you even realize what a blockchain is. You end up with a feeling that you think you know what a blockchain is, and continue with your old life or start checking out one of those fancy ICO websites. Perphas you will buy some bitcoins or ethers, but that’s the end of the story.
 
